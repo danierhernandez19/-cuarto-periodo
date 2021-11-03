@@ -25,20 +25,20 @@ f= total color
     height: 130px;/*altura*/
     width: 200px;/*grosor/anchura*/
     }/* Typingclub.com*/
-    danier el bicho {
+    .danier el bicho {
         background-color: aqua;
     }
-    danier el bicho:hover {
+    .danier el bicho:hover {
         background-color: skyblue;
         color: springgreen;
     }
-    danier el messi {
+    .danier el messi {
         background-color: brown;
         font-weight: bold;
         color: #fec260;
         width: 49%;
     }
-    danier el messi:hover {
+    .danier el messi:hover {
         background-color: #3b185f;
     }
     h1:hover {
