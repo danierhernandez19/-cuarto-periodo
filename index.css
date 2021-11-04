@@ -29,7 +29,8 @@ img {
 .danier-el-bicho {
     background-color: darkslategrey;
     color: seashell;
-    width: 49%;
+    width: 48%;
+    display: inline-block;
 }
 .danier-el-bicho:hover {
     background-color: #3B185F;
@@ -39,7 +40,8 @@ img {
     background-color:teal;
     color: rgb(253, 255, 238);
     font-weight: bold;
-    width: 49%;
+    width: 48%;
+    display: inline-block;
 }
 .danier-el-messi:hover {
     background-color: #3B185F;
