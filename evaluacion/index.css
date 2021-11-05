@@ -28,7 +28,7 @@ img {
     height: 300px;
     width: 300px;
 }
-.danier-hernandez {
+.danier-diaz {
     display: inline-block;
     background-color: darkslategrey;
     color: seashell;
@@ -36,7 +36,7 @@ img {
     padding-left: 0.5em;
     margin: 0.5em;
 }
-.danier-hernandez:hover {
+.danier-diaz:hover {
     background-color: #3B185F;
     color: #FEC260;
 }
